@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(38, 38, 39);
+}
+.square{
+    width: 30%;
+    background:orange ;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.6%;
+}
+#container{
+    max-width: 600px;
+    margin: 0% auto;
+}
+h1{
+    text-align: CENTER;
+    color: white;
+}
+.hs{
+    background-color: cornflowerblue;
+}
